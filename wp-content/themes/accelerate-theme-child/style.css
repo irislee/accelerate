@@ -105,6 +105,7 @@ ul.homepage-featured-work {
 .homepage-featured-work li {
   text-align: center; 
   width: 33%;
+  display: inline-block;
 }
 
 .homepage-featured-work p {
